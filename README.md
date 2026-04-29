@@ -32,7 +32,7 @@ UI: `http://localhost:8501`
 
 ## Demo
 
-- Video: `Demo.mp4` (GitHub will play it on the file page)
+[▶ Watch Demo Video](Demo.mp4)
 
 ## API keys
 
