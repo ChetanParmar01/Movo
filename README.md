@@ -41,7 +41,7 @@ streamlit run app\ui\main.py --server.address 127.0.0.1 --server.port 8501
 
 ## 🎥 Demo
 
-[▶ Watch Demo Video](./Demo-video.mp4)
+[▶ Watch Demo Video](./MOVO.mp4)
 
 > Note: On GitHub, the video will open or download instead of playing inline.
 
