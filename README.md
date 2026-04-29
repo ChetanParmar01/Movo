@@ -31,7 +31,7 @@ streamlit run app\ui\main.py --server.address 127.0.0.1 --server.port 8501
 UI: `http://localhost:8501`
 
 ## Demo
-[▶ Watch Demo Video](./Demo.mp4)
+[▶ Watch Demo Video](./Demo video.mp4)
 
 ## API keys
 
