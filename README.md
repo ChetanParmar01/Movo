@@ -31,10 +31,7 @@ streamlit run app\ui\main.py --server.address 127.0.0.1 --server.port 8501
 UI: `http://localhost:8501`
 
 ## Demo
-<video width="700" controls>
-  <source src="Demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[▶ Watch Demo Video](./Demo.mp4)
 
 ## API keys
 
